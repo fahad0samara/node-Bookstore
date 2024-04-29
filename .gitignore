@@ -1,0 +1,20 @@
+/node_modules 
+
+# ignore the node_modules folder
+node_modules
+
+# ignore the build folder
+build
+
+# ignore the dist folder
+dist
+
+# ignore the coverage folder
+coverage
+
+# ignore the .vscode folder
+.vscode
+
+# ignore the .env file
+.env
+
